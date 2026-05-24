@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Before filing, check the [open issues](<https://github.com/open-telemetry/opentelemetry-ecosystem-explorer/issues>)
+        Before filing, check the [open issues](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer/issues)
         to see if this has already been reported.
   - type: textarea
     id: expected
